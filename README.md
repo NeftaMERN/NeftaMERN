@@ -5,14 +5,14 @@
 Passionate **Front-End Developer** and tech enthusiast that enjoys creating responsive, interactive, clean websites. I'm trying to become a master of contemporary web technologies and produce incredible user experiences.
 
 ## 🚀 Skills & Technologies
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
-
+<p>
+  <img src="https://img.icons8.com/?size=256&id=20909&format=png" style="height:100px; disply: flex;"/>
+  <img src="https://img.icons8.com/?size=256&id=21278&format=png" height="100px"/>
+  <img src="https://img.icons8.com/?size=256&id=108784&format=png" height="100px"/>
+  <img src="https://img.icons8.com/?size=256&id=nCj4PvnCO0tZ&format=png" height="100px"/>
+  <img src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a&format=png" height="100px"/>
+  <img src="https://img.icons8.com/?size=256&id=20906&format=png" height="100px"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
