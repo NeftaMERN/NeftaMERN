@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
-I'm a passionate **Front-End Developer** and tech enthusiast who loves building clean, responsive, and interactive websites. I'm on a mission to master modern web technologies and create amazing user experiences.
+Passionate **Front-End Developer** and tech enthusiast that enjoys creating responsive, interactive, clean websites. I'm trying to become a master of contemporary web technologies and produce incredible user experiences.
 
 ## 🚀 Skills & Technologies
 
@@ -13,9 +13,13 @@ I'm a passionate **Front-End Developer** and tech enthusiast who loves building 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 
+---
+
 ## 📊 GitHub Stats
 
-![Neftalem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neftalem&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neftalem&layout=compact&theme=radical)
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neftalem&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neftalem&layout=compact&theme=radical" alt="Top Languages" style="max-width: 48%;" />
+</div>
 
 ---
