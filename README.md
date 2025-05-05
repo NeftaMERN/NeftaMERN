@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
-Passionate **Front-End Developer** and tech enthusiast that enjoys creating responsive, interactive, clean websites. I'm trying to become a master of contemporary web technologies and produce incredible user experiences.
+driven **Front-End Developer** and tech enthusiast that likes building interactive, responsive, clean websites. I am working to create amazing user experiences and master modern web technologies.
 
 ## 🚀 Skills & Technologies
 <p>
