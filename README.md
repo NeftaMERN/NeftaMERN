@@ -18,8 +18,8 @@ driven **Front-End Developer** and tech enthusiast that likes building interacti
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 20px; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neftalem&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neftalem&layout=compact&theme=radical" alt="Top Languages" style="max-width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeftaMERN&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaMERN&layout=compact&theme=radical" alt="Top Languages" style="max-width: 48%;" />
 </div>
 
 ---
