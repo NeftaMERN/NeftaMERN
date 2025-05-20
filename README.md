@@ -1,4 +1,5 @@
-<img src="https://sdmntprukwest.oaiusercontent.com/files/00000000-2414-6243-883e-8062a4e9e0aa/raw?se=2025-05-09T15%3A12%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=eb780365-537d-4279-a878-cae64e33aa9c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-09T07%3A21%3A50Z&ske=2025-05-10T07%3A21%3A50Z&sks=b&skv=2024-08-04&sig=pFLih5HMmlckZnIoU5Vui4KXVZZLyEchkDO0dbxMp9I%3D"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
+<img src="![Uploading 1f7ec35b-a2bb-4cf9-9167-cbf8b595d35f.png…]()
+"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
