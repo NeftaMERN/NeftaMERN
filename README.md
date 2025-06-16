@@ -1,4 +1,4 @@
-<img src="https://1drv.ms/i/c/cd4d96bebfa3f252/Ea1R9bhsQLZFnJu1a-88CwwB2jtUl8SjaXl8_jX-wUYUdg?e=isAKuO"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
+<img src="file:///C:/Users/Hp/OneDrive/Pictures/Saved%20Pictures/1f7ec35b-a2bb-4cf9-9167-cbf8b595d35f.png"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
