@@ -1,5 +1,4 @@
-<img src="[https://oaidalleapiprodscus.blob.core.windows.net/...](https://oaidalleapiprodscus.blob.core.windows.net/private/org-xxxxx/...
-)"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
+<img src="![Preview](https://user-images.githubusercontent.com/xxxx/yyyy.png)"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
