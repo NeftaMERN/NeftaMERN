@@ -1,4 +1,4 @@
-<img src="![Preview](https://user-images.githubusercontent.com/xxxx/yyyy.png)"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
+<img src="file:///C:/Users/Hp/OneDrive/Pictures/Saved%20Pictures/pic/575e87fb-6dc8-490f-b624-b21b3a51469a.png"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
